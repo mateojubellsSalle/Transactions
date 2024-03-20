@@ -1,4 +1,5 @@
-[
+{
+  "transactions": [
   {
     "name": "Compra supermercado",
     "amount": 50.00,
@@ -35,3 +36,4 @@
     "description": "Bonificación por desempeño"
   }
 ]
+}
