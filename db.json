@@ -1,39 +1,371 @@
 {
-  "transactions": [
-  {
-    "name": "Compra supermercado",
-    "amount": 50.00,
-    "date": "2024-01-01",
-    "type": "expense",
-    "description": "Gastos mensuales de alimentos"
-  },
-  {
-    "name": "Ingreso salario",
-    "amount": 2000.00,
-    "date": "2024-01-05",
-    "type": "income",
-    "description": "Pago mensual"
-  },
-  {
-    "name": "Transferencia ahorros",
-    "amount": 500.00,
-    "date": "2024-01-10",
-    "type": "transfer",
-    "description": "Traspaso de fondos a la cuenta de ahorros"
-  },
-  {
-    "name": "Compra ropa",
-    "amount": 80.00,
-    "date": "2024-01-15",
-    "type": "expense",
-    "description": "Adquisición de ropa nueva"
-  },
-  {
-    "name": "Ingreso bonificación",
-    "amount": 300.00,
-    "date": "2024-01-20",
-    "type": "income",
-    "description": "Bonificación por desempeño"
-  }
-]
+  "albums": [
+    {
+      "id": 1,
+      "title": "Album 1",
+      "cover": "https://url_to_album1_cover.jpg",
+      "description": "Description of Album 1",
+      "songs": [
+        {
+          "id": 101,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "3:45",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 102,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "4:20",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 103,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "3:10",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Album 2",
+      "cover": "https://url_to_album2_cover.jpg",
+      "description": "Description of Album 2",
+      "songs": [
+        {
+          "id": 201,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "5:00",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 202,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "3:30",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 203,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "4:15",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Album 3",
+      "cover": "https://url_to_album3_cover.jpg",
+      "description": "Description of Album 3",
+      "songs": [
+        {
+          "id": 301,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "3:55",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 302,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "4:45",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 303,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "3:25",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        },
+        {
+          "id": 304,
+          "title": "Song 4",
+          "image": "https://url_to_song4_image.jpg",
+          "duration": "5:20",
+          "songUrl": "https://url_to_song4_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Album 4",
+      "cover": "https://url_to_album4_cover.jpg",
+      "description": "Description of Album 4",
+      "songs": [
+        {
+          "id": 401,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "4:10",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 402,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "3:20",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 403,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "4:30",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        },
+        {
+          "id": 404,
+          "title": "Song 4",
+          "image": "https://url_to_song4_image.jpg",
+          "duration": "3:15",
+          "songUrl": "https://url_to_song4_audio.mp3"
+        },
+        {
+          "id": 405,
+          "title": "Song 5",
+          "image": "https://url_to_song5_image.jpg",
+          "duration": "5:45",
+          "songUrl": "https://url_to_song5_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Album 5",
+      "cover": "https://url_to_album5_cover.jpg",
+      "description": "Description of Album 5",
+      "songs": [
+        {
+          "id": 501,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "4:05",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 502,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "3:55",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 503,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "4:20",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        },
+        {
+          "id": 504,
+          "title": "Song 4",
+          "image": "https://url_to_song4_image.jpg",
+          "duration": "3:40",
+          "songUrl": "https://url_to_song4_audio.mp3"
+        },
+        {
+          "id": 505,
+          "title": "Song 5",
+          "image": "https://url_to_song5_image.jpg",
+          "duration": "4:00",
+          "songUrl": "https://url_to_song5_audio.mp3"
+        },
+        {
+          "id": 506,
+          "title": "Song 6",
+          "image": "https://url_to_song6_image.jpg",
+          "duration": "4:30",
+          "songUrl": "https://url_to_song6_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Album 6",
+      "cover": "https://url_to_album6_cover.jpg",
+      "description": "Description of Album 6",
+      "songs": [
+        {
+          "id": 601,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "3:25",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 602,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "4:10",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 603,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "5:15",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        },
+        {
+          "id": 604,
+          "title": "Song 4",
+          "image": "https://url_to_song4_image.jpg",
+          "duration": "3:50",
+          "songUrl": "https://url_to_song4_audio.mp3"
+        },
+        {
+          "id": 605,
+          "title": "Song 5",
+          "image": "https://url_to_song5_image.jpg",
+          "duration": "4:35",
+          "songUrl": "https://url_to_song5_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Album 7",
+      "cover": "https://url_to_album7_cover.jpg",
+      "description": "Description of Album 7",
+      "songs": [
+        {
+          "id": 701,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "4:20",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 702,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "3:30",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 703,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "4:40",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        },
+        {
+          "id": 704,
+          "title": "Song 4",
+          "image": "https://url_to_song4_image.jpg",
+          "duration": "5:05",
+          "songUrl": "https://url_to_song4_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Album 8",
+      "cover": "https://url_to_album8_cover.jpg",
+      "description": "Description of Album 8",
+      "songs": [
+        {
+          "id": 801,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "4:15",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 802,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "3:25",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 803,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "4:55",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Album 9",
+      "cover": "https://url_to_album9_cover.jpg",
+      "description": "Description of Album 9",
+      "songs": [
+        {
+          "id": 901,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "5:10",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 902,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "3:40",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 903,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "4:20",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        },
+        {
+          "id": 904,
+          "title": "Song 4",
+          "image": "https://url_to_song4_image.jpg",
+          "duration": "5:30",
+          "songUrl": "https://url_to_song4_audio.mp3"
+        },
+        {
+          "id": 905,
+          "title": "Song 5",
+          "image": "https://url_to_song5_image.jpg",
+          "duration": "4:00",
+          "songUrl": "https://url_to_song5_audio.mp3"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Album 10",
+      "cover": "https://url_to_album10_cover.jpg",
+      "description": "Description of Album 10",
+      "songs": [
+        {
+          "id": 1001,
+          "title": "Song 1",
+          "image": "https://url_to_song1_image.jpg",
+          "duration": "3:30",
+          "songUrl": "https://url_to_song1_audio.mp3"
+        },
+        {
+          "id": 1002,
+          "title": "Song 2",
+          "image": "https://url_to_song2_image.jpg",
+          "duration": "4:10",
+          "songUrl": "https://url_to_song2_audio.mp3"
+        },
+        {
+          "id": 1003,
+          "title": "Song 3",
+          "image": "https://url_to_song3_image.jpg",
+          "duration": "4:50",
+          "songUrl": "https://url_to_song3_audio.mp3"
+        }
+      ]
+    }
+  ]
 }
