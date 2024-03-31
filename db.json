@@ -337,35 +337,6 @@
           "songUrl": "https://url_to_song5_audio.mp3"
         }
       ]
-    },
-    {
-      "id": 10,
-      "title": "Album 10",
-      "cover": "https://url_to_album10_cover.jpg",
-      "description": "Description of Album 10",
-      "songs": [
-        {
-          "id": 1001,
-          "title": "Song 1",
-          "image": "https://url_to_song1_image.jpg",
-          "duration": "3:30",
-          "songUrl": "https://url_to_song1_audio.mp3"
-        },
-        {
-          "id": 1002,
-          "title": "Song 2",
-          "image": "https://url_to_song2_image.jpg",
-          "duration": "4:10",
-          "songUrl": "https://url_to_song2_audio.mp3"
-        },
-        {
-          "id": 1003,
-          "title": "Song 3",
-          "image": "https://url_to_song3_image.jpg",
-          "duration": "4:50",
-          "songUrl": "https://url_to_song3_audio.mp3"
-        }
-      ]
     }
   ]
 }
