@@ -11,21 +11,24 @@
           "title": "One More Time",
           "image": "https://source.unsplash.com/collection/881003",
           "duration": "3:45",
-          "songUrl": "https://cdns-preview-e.dzcdn.net/stream/c-e77d23e0c8ed7567a507a6d1b6a9ca1b-11.mp3"
+          "songUrl": "https://cdns-preview-e.dzcdn.net/stream/c-e77d23e0c8ed7567a507a6d1b6a9ca1b-11.mp3",
+          "description": "Catchy and upbeat electronic track with infectious vocals."
         },
         {
           "id": 102,
           "title": "Aerodynamic",
           "image": "https://source.unsplash.com/collection/881004",
           "duration": "4:20",
-          "songUrl": "https://cdns-preview-b.dzcdn.net/stream/c-b2e0166bba75a78251d6dca9c9c3b41a-9.mp3"
+          "songUrl": "https://cdns-preview-b.dzcdn.net/stream/c-b2e0166bba75a78251d6dca9c9c3b41a-9.mp3",
+          "description": "Energetic and fast-paced instrumental with powerful guitar riffs."
         },
         {
           "id": 103,
           "title": "Digital Love",
           "image": "https://source.unsplash.com/collection/881005",
           "duration": "3:10",
-          "songUrl": "https://cdns-preview-0.dzcdn.net/stream/c-01ef0c4982c94b86c7c0e6b2a70dde4b-9.mp3"
+          "songUrl": "https://cdns-preview-0.dzcdn.net/stream/c-01ef0c4982c94b86c7c0e6b2a70dde4b-9.mp3",
+          "description": "Dreamy and romantic synth-pop ballad with a nostalgic vibe."
         }
       ]
     },
@@ -40,21 +43,24 @@
           "title": "Harder, Better, Faster, Stronger",
           "image": "https://source.unsplash.com/collection/881006",
           "duration": "5:00",
-          "songUrl": "https://cdns-preview-d.dzcdn.net/stream/c-deda7fa9316d9e9e880d2c6207e92260-10.mp3"
+          "songUrl": "https://cdns-preview-d.dzcdn.net/stream/c-deda7fa9316d9e9e880d2c6207e92260-10.mp3",
+          "description": "Electro-pop anthem with a driving beat and empowering lyrics."
         },
         {
           "id": 202,
           "title": "Crescendolls",
           "image": "https://source.unsplash.com/collection/881007",
           "duration": "3:30",
-          "songUrl": "https://cdns-preview-0.dzcdn.net/stream/c-02585dc790f2904c4e870cb3bcecfcf3-10.mp3"
+          "songUrl": "https://cdns-preview-0.dzcdn.net/stream/c-02585dc790f2904c4e870cb3bcecfcf3-10.mp3",
+          "description": "Funky and groovy track with catchy hooks and playful melodies."
         },
         {
           "id": 203,
           "title": "Nightvision",
           "image": "https://source.unsplash.com/collection/881008",
           "duration": "4:15",
-          "songUrl": "https://cdns-preview-1.dzcdn.net/stream/c-155b4d90d3d16d951e3d67c297988edc-9.mp3"
+          "songUrl": "https://cdns-preview-1.dzcdn.net/stream/c-155b4d90d3d16d951e3d67c297988edc-9.mp3",
+          "description": "Atmospheric and introspective instrumental piece with a chill vibe."
         }
       ]
     },
@@ -69,28 +75,32 @@
           "title": "Superheroes",
           "image": "https://source.unsplash.com/collection/881009",
           "duration": "3:55",
-          "songUrl": "https://cdns-preview-3.dzcdn.net/stream/c-3d8caae0a1c59f417f31bb747c43818b-9.mp3"
+          "songUrl": "https://cdns-preview-3.dzcdn.net/stream/c-3d8caae0a1c59f417f31bb747c43818b-9.mp3",
+          "description": "Epic and uplifting track with anthemic choruses and soaring vocals."
         },
         {
           "id": 302,
           "title": "High Life",
           "image": "https://source.unsplash.com/collection/881010",
           "duration": "4:45",
-          "songUrl": "https://cdns-preview-8.dzcdn.net/stream/c-8052077a75a884e93bda2e2b63f74bbb-9.mp3"
+          "songUrl": "https://cdns-preview-8.dzcdn.net/stream/c-8052077a75a884e93bda2e2b63f74bbb-9.mp3",
+          "description": "Energetic and lively dance tune with infectious beats and melodies."
         },
         {
           "id": 303,
           "title": "Something About Us",
           "image": "https://source.unsplash.com/collection/881011",
           "duration": "3:25",
-          "songUrl": "https://cdns-preview-9.dzcdn.net/stream/c-905aef3b23f4fb19db300a03f254fd6a-8.mp3"
+          "songUrl": "https://cdns-preview-9.dzcdn.net/stream/c-905aef3b23f4fb19db300a03f254fd6a-8.mp3",
+          "description": "Smooth and soulful R&B track with heartfelt lyrics and emotive vocals."
         },
         {
           "id": 304,
           "title": "Voyager",
           "image": "https://source.unsplash.com/collection/881012",
           "duration": "5:20",
-          "songUrl": "https://cdns-preview-9.dzcdn.net/stream/c-98625d3ad54e88765fdfb812de62e515-9.mp3"
+          "songUrl": "https://cdns-preview-9.dzcdn.net/stream/c-98625d3ad54e88765fdfb812de62e515-9.mp3",
+          "description": "Futuristic and spacey electronic journey with mesmerizing soundscapes."
         }
       ]
     },
@@ -105,35 +115,40 @@
           "title": "Veridis Quo",
           "image": "https://source.unsplash.com/collection/881013",
           "duration": "4:10",
-          "songUrl": "https://cdns-preview-f.dzcdn.net/stream/c-f6fde4f6f42bde740e3d07b019fde318-8.mp3"
+          "songUrl": "https://cdns-preview-f.dzcdn.net/stream/c-f6fde4f6f42bde740e3d07b019fde318-8.mp3",
+          "description": "Soothing and melodic electronic track with a serene atmosphere."
         },
         {
           "id": 402,
           "title": "Short Circuit",
           "image": "https://source.unsplash.com/collection/881014",
           "duration": "3:20",
-          "songUrl": "https://cdns-preview-6.dzcdn.net/stream/c-6ef3bfc9e8f226b582bade5842df4517-10.mp3"
+          "songUrl": "https://cdns-preview-6.dzcdn.net/stream/c-6ef3bfc9e8f226b582bade5842df4517-10.mp3",
+          "description": "Funky and rhythmic tune with infectious beats and synth elements."
         },
         {
           "id": 403,
           "title": "Face to Face",
           "image": "https://source.unsplash.com/collection/881015",
           "duration": "4:30",
-          "songUrl": "https://cdns-preview-e.dzcdn.net/stream/c-eb0647b8e5d67845c24ec6d2d2c7c1fd-9.mp3"
+          "songUrl": "https://cdns-preview-e.dzcdn.net/stream/c-eb0647b8e5d67845c24ec6d2d2c7c1fd-9.mp3",
+          "description": "Funky and infectious track with groovy basslines and catchy hooks."
         },
         {
           "id": 404,
           "title": "Too Long",
           "image": "https://source.unsplash.com/collection/881016",
           "duration": "3:15",
-          "songUrl": "https://cdns-preview-f.dzcdn.net/stream/c-f97a06f818d24c8c6c21d7b936fc3d1c-10.mp3"
+          "songUrl": "https://cdns-preview-f.dzcdn.net/stream/c-f97a06f818d24c8c6c21d7b936fc3d1c-10.mp3",
+          "description": "Dynamic and high-energy tune with a mix of electronic and rock elements."
         },
         {
           "id": 405,
           "title": "Aerodynamic (Daft Punk Remix)",
           "image": "https://source.unsplash.com/collection/881017",
           "duration": "5:45",
-          "songUrl": "https://cdns-preview-1.dzcdn.net/stream/c-1051e027d3f8f52b9bda0225a8493a9b-10.mp3"
+          "songUrl": "https://cdns-preview-1.dzcdn.net/stream/c-1051e027d3f8f52b9bda0225a8493a9b-10.mp3",
+          "description": "Remix of the classic track with added electronic flourishes and beats."
         }
       ]
     },
@@ -148,42 +163,48 @@
           "title": "One More Time (Romanthony's Unplugged)",
           "image": "https://source.unsplash.com/collection/881018",
           "duration": "4:05",
-          "songUrl": "https://cdns-preview-0.dzcdn.net/stream/c-0174f7f929f9d1249361ed1ec0f8c70a-10.mp3"
+          "songUrl": "https://cdns-preview-0.dzcdn.net/stream/c-0174f7f929f9d1249361ed1ec0f8c70a-10.mp3",
+          "description": "Stripped-down and acoustic rendition of the iconic hit single."
         },
         {
           "id": 502,
           "title": "Harder, Better, Faster, Stronger (Alive 2007)",
           "image": "https://source.unsplash.com/collection/881019",
           "duration": "3:55",
-          "songUrl": "https://cdns-preview-b.dzcdn.net/stream/c-ba1efea11b9f6a33b6a91ef1a03378f3-11.mp3"
+          "songUrl": "https://cdns-preview-b.dzcdn.net/stream/c-ba1efea11b9f6a33b6a91ef1a03378f3-11.mp3",
+          "description": "Live version of the popular track with added energy and crowd reactions."
         },
         {
           "id": 503,
           "title": "Burnin' / Too Long",
           "image": "https://source.unsplash.com/collection/881015",
           "duration": "4:20",
-          "songUrl": "https://cdns-preview-3.dzcdn.net/stream/c-36b0eb42b206f7f049a74eddc27c28ac-8.mp3"
+          "songUrl": "https://cdns-preview-3.dzcdn.net/stream/c-36b0eb42b206f7f049a74eddc27c28ac-8.mp3",
+          "description": "Mashup of two energetic tracks for an explosive dancefloor experience."
         },
         {
           "id": 504,
           "title": "Face to Face (Demon Remix)",
           "image": "https://source.unsplash.com/collection/881011",
           "duration": "3:40",
-          "songUrl": "https://cdns-preview-c.dzcdn.net/stream/c-cf0f0a35b776b96dbf6e582ad44e3aa0-10.mp3"
+          "songUrl": "https://cdns-preview-c.dzcdn.net/stream/c-cf0f0a35b776b96dbf6e582ad44e3aa0-10.mp3",
+          "description": "Remix of the original with a darker and more sinister vibe."
         },
         {
           "id": 505,
           "title": "Daftendirekt (Alive 2007)",
           "image": "https://source.unsplash.com/collection/881014",
           "duration": "4:00",
-          "songUrl": "https://cdns-preview-b.dzcdn.net/stream/c-b6d783b6c671916c12f63f95c50402d7-9.mp3"
+          "songUrl": "https://cdns-preview-b.dzcdn.net/stream/c-b6d783b6c671916c12f63f95c50402d7-9.mp3",
+          "description": "Live rendition of the instrumental track with added intensity."
         },
         {
           "id": 506,
           "title": "Superheroes (Alive 2007)",
           "image": "https://source.unsplash.com/collection/881013",
           "duration": "4:30",
-          "songUrl": "https://cdns-preview-3.dzcdn.net/stream/c-3dd48bfa3b29b09f7d5be8f1b9fcbe7e-10.mp3"
+          "songUrl": "https://cdns-preview-3.dzcdn.net/stream/c-3dd48bfa3b29b09f7d5be8f1b9fcbe7e-10.mp3",
+          "description": "Live version of the track with extended instrumentals and crowd interaction."
         }
       ]
     }
